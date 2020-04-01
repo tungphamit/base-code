@@ -1,0 +1,756 @@
+@media only screen and (max-width: 1199px){
+/*===== H E A D E R ====*/
+.userstyle_wrap{
+	padding-left: 0;
+}
+
+/*===== S U P P O R ====*/
+.wrap_suppor{
+	padding-left: 15%;
+}
+.icon{
+	width: 100%;
+}
+.icon i {
+	padding-left: 25%;
+}
+.wrap_suppor .txt{
+	width: 100%;
+	padding-left: 0;
+}
+/*===== F E A T U R E D ====*/
+
+.sp .sp_1 .gia p {
+    padding: 0px 25px;
+    margin-bottom: 0;
+}
+
+
+
+}
+
+@media only screen and (max-width: 1199px){
+
+/*===== SẢN PHẨM BÁN CHẠY =====*/
+.border_1{
+    width: 35%;
+}
+.border_2{
+    width: 35%;
+}
+
+.text_sp{
+    width: 30%;
+}
+
+}
+
+@media only screen and (max-width: 1097px){
+/*===== H E A D E R ====*/
+/*===== M E N U  ====*/
+.danhmucsp_text{
+	padding-left: 0;
+}
+/*===== C O N T E N T  ====*/
+.pt_menu .parentMenu {
+    padding: 10px 0px;
+}
+
+.parentMenu .text {
+	padding-left: 0;
+}
+   
+
+}
+
+@media only screen and (max-width: 1024px){
+
+/*===== F E A T U R E D ====*/
+
+.sp .sp_1 .gia p {
+    padding: 0px 30px;
+    margin-bottom: 0;
+}
+
+}
+
+@media only screen and (max-width: 1018px){
+/*====container_header====*/
+.Middle_wrap{
+	display: inline-block;
+	padding: 14px 0 16px;
+}
+.Middle_left_container{
+	width: 100%;
+	float: left;
+}
+.logo{
+	width: 25%;
+	float: left;
+	position: relative;
+}
+.logo img{
+	padding-left: 70px;
+}
+.form_search{
+	width: 75%;
+	padding-right: 70px;
+	padding-top: 17px;
+	display: inline-block;
+	position: relative;
+}
+.form_search input {
+    width: calc(100% - 80px)
+}
+.form_search button{
+	width: 80px;
+}
+.userstyle{
+	width: 100%;
+	float: left;
+	padding-left: 0;
+}
+.userstyle_wrap{
+	width: 100%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.userstyle a {
+	width: 25%;
+}
+.userstyle_custom{
+	display: contents;
+}
+/*==== M E N U M O B I L E ====*/
+.container_menu{
+	display: none;
+}
+.container-DM .list{
+	display: none;
+}
+.container-DM .banner_maingrid{
+	width: 100%;
+}
+
+.container_menu_mobile{
+	display: block;
+}
+
+
+}
+
+
+/*===============================================*/
+@media only screen and (max-width: 921px){
+
+/*===== S U P P O R ====*/
+.wrap_suppor{
+	padding-left: 9%;
+}
+
+/*==== F E A T U R E D ====*/
+.sp{
+	width: 25%;
+}
+.sp .sp_1 .gia p {
+    padding: 0px 40px;
+}
+
+
+
+}
+
+/*===============================================*/
+
+@media only screen and (max-width: 863px){
+
+/*===== S U P P O R ====*/
+.wrap_suppor{
+	padding-left: 6%;
+}
+
+
+}
+
+
+@media only screen and (max-width: 837px){
+
+/*==== S U P P O R ====*/
+.wrap_suppor{
+	padding-left: 5%;
+}
+
+/*==== F E A T U R E D ====*/
+.section_header .left_filter_pannel {
+    width: 100%;
+}
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 800px){
+/*===== H E A D E R =====*/
+.Middle_left_container{
+	display: inline-block;
+}	
+.logo{
+	width: 100%;
+}
+.logo img{
+	padding-left: 10px;
+}
+.form_search{
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.userstyle_wrap{
+	padding-left: 0;
+	padding-right: 0;
+}
+/*==== M E N U M O B I L E ====*/
+.banner_maingrid_1{
+	width: 100%;
+}
+.slide{
+	width: 100%;
+}
+
+.banner_bottom{
+	display: none;
+}
+
+
+.banner_maingrid_2{
+	display: none;
+}
+
+/*==== S L I D E ====*/
+
+.banner_maingrid_1 .slide {
+    height: auto;
+}
+.slide img {
+    width: 100%;
+    height: auto;
+}
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 17%;
+    padding-right: 15%;
+}
+.icon i {
+    padding-left: 40%;
+}
+.wrap_suppor .txt {
+    text-align: center;
+}
+
+/*====M O B I L E_L I S T===*/
+.mobile_list{
+	width: 35%;
+}
+
+
+
+}
+
+
+
+/*=============================================*/
+@media only screen and (max-width: 774px){
+
+/*===== F E A T U R E D ====*/
+.left {
+	padding-right: 0px;
+	padding-left: 6px;
+}
+
+
+
+}
+
+@media only screen and (max-width: 768px){
+
+/*===== SẢN PHẨM BÁN CHẠY =====*/
+.border_1{
+    width: 30%;
+}
+.border_2{
+    width: 30%;
+}
+
+.text_sp{
+    width: 40%;
+}
+
+
+.sp{
+	width:calc(100% / 3);
+}
+.sp .sp_1 .gia p {
+    padding: 0px 60px;
+}
+
+
+
+}
+
+@media only screen and (max-width: 709px){
+/*====M O B I L E_L I S T===*/
+.wrap_list_left{
+	width: 15%;
+}
+.wrap_list_left i{
+	padding-left: 39%;
+    padding-right: 30%;
+}
+
+
+.wrap_list_right {
+	width: 85%;
+}
+
+}
+
+/*=============================================*/
+@media only screen and (max-width: 680px){
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 14%;
+}
+
+/*BANNER*/
+.banner_list{
+	display: none;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+}
+.banner_list_mobile{
+	display: block;
+}
+
+
+.owl-carousel.owl-loaded {
+    display: inline-block;
+    width: 100%;
+}
+.banner_list .banner_costom{
+	width: 100%;
+}
+
+/*==== F E A T U R E D ====*/
+.left {
+    padding-left: 0px;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 670px){
+
+/*==== M E N U M O B I L E ====*/
+.wrap_list_left {
+    width: 10%;
+}
+.wrap_list_left i {
+    padding-left: 27%;
+    padding-right: 23%;
+}
+.wrap_list_right {
+    width: 90%;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 653px){
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 11%;
+    padding-right: 12%;
+}
+
+
+}
+
+
+@media only screen and (max-width: 635px){
+
+/*==== F E A T U R E D ====*/
+.left{
+	width: 30%;
+}
+/*==== M E N U M O B I L E ====*/
+.wrap_list_right .list_right {
+	display: none;
+}
+
+
+}
+
+@media only screen and (max-width: 610px){
+
+/*==== F O O T E R M O B I L E ====*/
+.container_footer{
+	display: none;
+}
+ .last_footer{
+	display: none;
+}
+.wrap_footer_mobile{
+	display: block;
+}
+
+}
+
+@media only screen and (max-width: 603px){
+/*==== H E A D E R ====*/
+.wrap_list_left i {
+    padding-left: 24%;
+    padding-right: 21%;
+}
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 7%;
+    padding-right: 9%;
+}
+
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 45%;
+}
+
+}
+
+
+
+
+/*=============================================*/
+@media only screen and (max-width: 585px){
+
+/*==== SẢN PHẨM BÁN CHẠY ====*/
+.border_1 {
+    width: 25%;
+}
+.border_2 {
+    width: 25%;
+}
+.text_sp {
+    width: 50%;
+}
+
+
+
+}
+
+@media only screen and (max-width: 559px){
+
+/*==== M E N U M O B I L E ====*/
+
+.wrap_list_left i {
+    padding-left: 22%;
+    padding-right: 18%;
+}
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 3%;
+    padding-right: 9%;
+}
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 50%;
+}
+
+}
+
+}
+
+@media only screen and (max-width: 552px){
+
+/*==== M E N U M O B I L E ====*/
+.wrap_list_left i {
+    padding-left: 21%;
+    padding-right: 17%;
+}
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 2%;
+    padding-right: 6%;
+}
+
+}
+
+
+@media only screen and (max-width: 510px){
+
+/*==== M E N U M O B I L E ====*/
+.wrap_list_left i {
+    padding-left: 18%;
+    padding-right: 16%;
+}
+
+/*==== H E A D E R ====*/
+.userstyle_wrap{
+	padding-left: 30px;
+}
+.userstyle_custom .userstyle_itemtext{
+	display: none;
+}
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 55%;
+}
+.list_right {
+	display: none;
+}
+
+/*=== S L I D E ===*/
+.banner_maingrid_1 .slide {
+    height: auto;
+}
+.slide img{
+	height: auto;
+}
+
+/*=== S U P P O R T ===*/
+.wrap_suppor{
+    padding-left: 11%;
+	padding-right: 10%;
+}
+.icon i {
+    padding-left: 32%;
+}
+.wrap_suppor .txt {
+    text-align: center;
+}
+
+.suppor_custom .txt p {
+    font-size: 13px;
+}
+.suppor_custom .txt span {
+    display: none;
+}
+/*BANNER*/
+.banner_list{
+	display: none;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+}
+.banner_list_mobile{
+	display: block;
+}
+
+
+.owl-carousel.owl-loaded {
+    display: inline-block;
+    width: 100%;
+}
+.banner_list .banner_costom{
+	width: 100%;
+}
+/*SẢN PHẨM BÁN CHẠY*/
+.border_1 {
+    width: 20%;
+}
+
+.text_sp {
+    width: 60%;
+}
+.border_2 {
+    width: 20%;
+}
+
+.sp{
+	width: 50%;
+}
+
+
+}
+
+/*=============================================*/
+@media only screen and (max-width: 489px){
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 5%;
+    padding-right: 10%;
+}
+
+}
+
+
+
+@media only screen and (max-width: 480px){
+.wrap_list_left {
+    width: 15%;
+}
+
+/*==== M E N U M O B I L E ====*/
+.wrap_list_left i {
+	font-size: 26px;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5px;
+}
+
+
+
+/*==== F E A T U R E D ====*/
+
+
+}
+
+@media only screen and (max-width: 457px){
+
+/*==== M E N U M O B I L E ====*/
+/*.wrap_list_left i {
+	
+	padding-top: 5px;
+    padding-left: 19%;
+    padding-right: 14%;
+}*/
+
+/*==== S U P P O R ====*/
+.wrap_suppor {
+    padding-left: 3%;
+    padding-right: 5%;
+}
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 60%;
+}
+
+
+}
+
+@media only screen and (max-width: 440px){
+
+/*==== F E A T U R E D ====*/
+.left {
+    width: 40%;
+}
+
+
+
+}
+
+@media only screen and (max-width: 426px){
+
+.wrap_suppor {
+    padding-left: 1%;
+    padding-right: 3%;
+}
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 65%;
+}
+
+
+}
+
+@media only screen and (max-width: 410px){
+
+/*==== S U P P O R ====*/
+.suppor_listt .suppor_custom {
+    width: 50%;
+    padding-bottom: 10px;
+}
+.icon i {
+    padding-left: 42%;
+}
+
+}
+
+@media only screen and (max-width: 405px){
+
+.container-DM {
+    padding-bottom: 10px;
+}
+/*==== M E N U ====*/
+.wrap_list_left i{
+
+	padding-left: 27%;
+    padding-right: 26%;
+}
+
+/*==== SẢN PHẨM BÁN CHẠY ===*/
+.border_1 {
+    width: 15%;
+}
+.border_2 {
+    width: 15%;
+}
+.text_sp {
+    width: 70%;
+}
+
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 75%;
+}
+
+}
+
+/*=============================================*/
+@media only screen and (max-width: 360px){
+
+.wrap_list_left i {
+    padding-left: 23%;
+    padding-right: 21%;
+}
+.sp {
+    width: 100%;
+}
+
+
+}
+
+@media only screen and (max-width: 353px){
+
+.left {
+    width: 50%;
+}
+
+/*==== S U P P O R ====*/
+.border_1 {
+    width: 10%;
+}
+.border_2 {
+    width: 10%;
+}
+.text_sp {
+    width: 80%;
+}
+
+/*==== M O B I L E L I S T ====*/
+.mobile_list {
+    width: 85%;
+}
+
+}

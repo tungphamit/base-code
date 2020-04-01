@@ -1,0 +1,364 @@
+.container_user_page{
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+
+.wrap_user_page{
+	width: 100%;
+	display: inline-block;
+}
+
+.userpage_sidebar{
+	width: 20%;
+    display: inline-block;
+}
+
+.user_page_brief{
+	display: inline-block;
+    padding: 20px 0;
+    border-bottom: 1px solid #e1e1e1;
+    height: 90px
+}
+
+.user_page_brief_avatar{
+	display: block;
+	float: left;
+}
+
+.user_page_brief_right{
+	display: inline-block;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.user_page_menu{
+	margin-top: 20px;
+	display: block;
+	cursor: pointer;
+}
+
+
+.user_custom{
+	margin: 15px 0;
+}
+
+.menu_icon{
+	display: inline-block;
+	font-size: 20px;
+}
+
+.menu_text{
+	display: inline-block;
+	margin-left: 5px;
+	color: rgba(0,0,0,.8);
+	font-size: 15px;
+}
+.menu_text:hover{
+	color: #dc3545;
+}
+
+
+
+.subsection_dropdown{
+	padding: 10px 0;
+}
+
+.subsection_custom{
+	display: block;
+    padding-left: 20px;
+}
+
+.list_ak{
+	display: block;
+	padding: 8px;
+}
+
+.order_dropdown{
+	display: none;
+}
+
+.subsection_custom>a{
+	text-decoration: none;
+	color: #555;
+	font-size: 14px;
+}
+
+.subsection_custom>a:hover{
+	color: #dc3545;
+}
+
+
+/*============================*/
+
+.my_account_selection{
+	display: block;
+}
+
+
+
+
+
+
+.my_account_profile{
+	padding: 30px 0;
+	display: flex;
+}
+
+
+.userpage_content{
+	width: 80%;
+    display: block;
+    float: right;
+    background: #fff;
+    padding: 0 20px;
+}
+.wrap_userpage_content{
+	width: 100%;
+	display: inline-block;
+}
+.my_account_section_header{
+	border-bottom: 1px solid #e5e5e5;
+}
+.wrap_my_account_section_header{
+	padding: 20px 0;
+	display: flex;
+	height: 90px;
+	border-bottom: 1px solid #e1e1e1;
+}
+.wrap_my_account_section_header .add_title{
+	font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    color: #333;
+    text-transform: capitalize;
+    width: 80%;
+
+}
+.wrap_my_account_section_header>p{
+	font-size: .875rem;
+    line-height: 1.0625rem;
+    color: #555;
+    margin-top: 3px;
+}
+
+/*==my_account_profile_left==*/
+.my_account_profile_left{
+	display: inline-block;
+	width: 65%;
+}
+
+.group_my_account_profile>ul>li{
+	margin: 20px 0;
+}
+
+.text_name{
+	width: 20%;
+	display: inline-block;
+	color: rgba(85,85,85,.8);
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.input_custom{
+	display: inline-block;
+	width: 60%;
+}
+.lii_lan{
+	width: 100%;
+	border-radius: 4px;
+    border: 1px solid #bebebe;
+}
+
+
+
+.input_sex{
+	display: inline-block;
+	padding-top: 20px;
+}
+.input_and_text{
+	display: inline-block;
+	padding-right: 20px;
+}
+.select_NgaySinh{
+	display: inline-block;
+	width: 60%;
+}
+.select_custom{
+	display: inline-block;
+	width: calc(100% / 3 - 4px);
+}
+.lii_huong{
+	width: 100%;
+	border-radius: 4px;
+}
+.btn_save{
+	background: #e30000;
+	color: #fff;
+	padding: 6px 18px;
+}
+.btn_save:hover{
+	background: #e30000;
+	opacity: 0.7;
+	color: #fff;
+}
+
+
+
+
+/*===my_account_profile_right===*/
+
+.my_account_profile_right{
+	width: 35%;
+	display: flex;
+	justify-content: center;
+	height: max-content;
+}
+.upload_avatar{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upload_avatar_item{
+	margin: 20px 0;
+	height: 100px;
+    width: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upload_avatar_image{
+	width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer
+}
+
+.btn_selectPhoto{
+	background: #fff;
+    border: 1px solid #cecece;
+    color: #404040;
+    font-size: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.upload_avatar_text_note{
+	font-size: 14px;
+	color: #959595;
+	margin-top: 10px;
+}
+
+/*===  ĐỊA CHỈ ===*/
+
+
+.my_address_tab{
+	display: none
+}
+
+
+
+
+
+.my_account_header_button{
+	width: 30%;
+    display: inline-block;
+    text-align: right;
+}
+
+.btn_address_tab{
+	height: 40px;
+    padding: 0 20px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 400;
+    background: #ee4d2d;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.btn_address_tab_icon_text{
+	display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.btn_address_tab_icon{
+	margin-right: 5px;
+    font-size: 30px;
+}
+
+
+.wrap_my_account_section_bottom{
+	margin-top: 20px;
+}
+.address-card{
+ padding: 10px 0 20px 60px;
+ display: flex;
+ border-bottom: 1px solid #e1e1e1;
+}
+
+.address-display__left{
+	display: inline-block;
+	width: 80%;
+}
+
+.address-display__field-container{
+	display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+.address-display__name{
+	font-size: 14px;
+    color: #555;
+   width: 20%;
+    display: block;
+}
+.address-display__content{
+	font-size: 15px;
+    display: block;
+    font-weight: 300;
+}
+.name_big{
+	font-size: 20px;
+}
+
+
+.address-card__buttons{
+	display: inline-block;
+	width: 20%;
+	text-align: right;
+}
+
+.address-card__buttons-group{
+	margin-bottom: 20px;
+}
+.bacc-secondary-action-btn{
+	background: none;
+    border: none;
+    font-size: 13px;
+}
+
+.btn_default{
+	background: #ccc;
+    border: 1px solid #a3a3a3;
+    border-radius: 30px;
+    padding: 4px 15px;
+    font-size: 14px;
+    display: inline-block;
+}
